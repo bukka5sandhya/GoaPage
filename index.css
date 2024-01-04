@@ -1,0 +1,30 @@
+.image{
+    height:1000px;
+}
+.card{
+    background-color: #ffffff;
+    height: 80vh;
+    padding:10px;
+    
+}
+.about-heading{
+    font-family: 'Roboto';
+    font-size:40px;
+    color:#323f4b;
+    font-weight:bold;
+}
+.about-para{
+    font-family: 'Roboto';
+    font-size:35px;
+    color:#9aa5b1;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+.more-image{
+    height:200px;
+    width:230px;
+    padding:10px;
+    padding-left:20px;
+    padding-bottom:20px;
+    
+}
